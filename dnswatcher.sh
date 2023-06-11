@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the DNS name to check
-DNS_NAME="mydomain"
+DNS_NAME="mydomain.com"
 
 # Set the service to restart
 SERVICE="haproxy"
